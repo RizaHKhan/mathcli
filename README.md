@@ -1,6 +1,6 @@
 # Math
 
-A really simple terminal program that allows users to perform some simple arithmatic in the console.
+A really simple terminal program that allows users to perform some simple arithmetic in the console.
 
 ## Installation
 
