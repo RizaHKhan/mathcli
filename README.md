@@ -5,7 +5,11 @@ A really simple terminal program that allows users to perform some simple arithm
 ## Installation
 
 ```
-git clone
+git clone https://github.com/RizaHKhan/mathcli.git
+cd mathcli
+chmod +x mathcli
+go build ./math.go
+cp ./math ~/.local/bin/math
 
 ```
 
